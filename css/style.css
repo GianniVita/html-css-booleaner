@@ -2,15 +2,34 @@
         background-image: url('../img/pattern.webp');
         height: 230px;
         background-color: #4ea0ff;
+        background-repeat: repeat-x;
         
 }
 
 #logo{
     height: 40px;
-    align-items;
+    margin-top: 180px; ;
+    
 }
 
 body{
     margin: 20%;
 }
 
+#author{
+    color: grey;
+    font-size: 14px;
+    padding: 0px;
+    margin: 0px;
+}
+
+#main-title{
+    font-size: 50px;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+h2{
+    color: grey;
+}
